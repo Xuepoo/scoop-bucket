@@ -1,12 +1,12 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A powerful LLM-driven agentic EPUB book translator with robust progress monitoring and recovery",
   "homepage": "https://github.com/Xuepoo/agent-book-translate",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Xuepoo/agent-book-translate/releases/download/v0.1.6/agent-book-translate-windows-x86_64.exe",
-      "hash": "c22b0ecf24303daf15f933e396743889580a5d7f7b4d63d79492c8b44fcd10cb",
+      "url": "https://github.com/Xuepoo/agent-book-translate/releases/download/v0.1.7/agent-book-translate-windows-x86_64.exe",
+      "hash": "6c756a5b3a863963a3202bed214dd78434d4700a05fd24af2d4c5765cd249e26",
       "bin": [["agent-book-translate-windows-x86_64.exe", "agent-book-translate"]]
     }
   },
