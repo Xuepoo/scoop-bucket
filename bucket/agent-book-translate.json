@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Xuepoo/agent-book-translate/releases/download/v0.1.7/agent-book-translate-windows-x86_64.exe",
-      "hash": "6c756a5b3a863963a3202bed214dd78434d4700a05fd24af2d4c5765cd249e26",
+      "hash": "982effafda42cf2b11cb36c858a213fd14ba6bdc336103cb02a61716867ade5f",
       "bin": [["agent-book-translate-windows-x86_64.exe", "agent-book-translate"]]
     }
   },
