@@ -1,12 +1,12 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A terminal-native music CLI replacing lx-music-desktop, powered by Agentic intelligence",
   "homepage": "https://github.com/Xuepoo/agent-lx-music",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Xuepoo/agent-lx-music/releases/download/v0.3.1/alx-windows-x86_64.exe",
-      "hash": "5d4326848d5ecced6f465aa4adb29aa5148e3bfdec81035180e501b90f02a6f2",
+      "url": "https://github.com/Xuepoo/agent-lx-music/releases/download/v0.3.2/alx-windows-x86_64.exe",
+      "hash": "edab823f231485799430de5f97c109df0202eb2a44ea6b52c1b0e41656250af1",
       "bin": [["alx-windows-x86_64.exe", "alx"]]
     }
   },
