@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Xuepoo/sonic-bridge/releases/download/v0.4.2/sonic-bridge-windows-x86_64.exe",
-      "hash": "c3030fc926a5ebbcebfe31d8eda1a22e132a9af86a381be0f73b8b97297f8dd1",
+      "hash": "67e307223d4633c66ad433ece1c539345f106ad949fa62035bf7fb311d8c0cce",
       "bin": [["sonic-bridge-windows-x86_64.exe", "sonic-bridge"]]
     }
   },
