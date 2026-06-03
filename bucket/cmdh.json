@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Xuepoo/cmdhub/releases/download/v0.1.0-alpha/cmdh-v0.1.0-alpha-x86_64-pc-windows-msvc.zip",
-      "hash": "6314dcfd7d3b9aa6e2aed9748a4e7997e0001c2c433527bd72c6fea0cdc895b6",
+      "hash": "791101d0598ffb308f30d2418f463274a791baa48dee0d44a85c348148f44586",
       "bin": "cmdh.exe"
     }
   },
