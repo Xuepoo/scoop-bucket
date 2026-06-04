@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "An ultra-fast, lightweight physical music aesthetic and listening translation middleware designed for AI Agents",
   "homepage": "https://github.com/Xuepoo/sonic-bridge",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Xuepoo/sonic-bridge/releases/download/v0.6.0/sonic-bridge-windows-x86_64.exe",
-      "hash": "aaf57da64292e4ca0439c199d58a4309686d656ce640d673974ce61358e371a7",
+      "url": "https://github.com/Xuepoo/sonic-bridge/releases/download/v0.7.0/sonic-bridge-windows-x86_64.exe",
+      "hash": "2d67f8467332b8e7ad7cc1066ae316fb766d90ab2df5dc831eaf15f5940d1fcf",
       "bin": [["sonic-bridge-windows-x86_64.exe", "sonic-bridge"]]
     }
   },
