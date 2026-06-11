@@ -1,12 +1,12 @@
 {
-  "version": "5.0.11",
+  "version": "5.0.12",
   "description": "Image to vector math CLI",
   "homepage": "https://github.com/Xuepoo/vectomancy",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Xuepoo/vectomancy/releases/download/v5.0.11/vectomancy-windows-x86_64.exe",
-      "hash": "bbc8d05af3f9257bb0fb7de38f9151475798c53c9144840de45d3a999c768c15"
+      "url": "https://github.com/Xuepoo/vectomancy/releases/download/v5.0.12/vectomancy-windows-x86_64.exe",
+      "hash": "6a3ac2ef2cf11b4f3b11566db57f54e5460af05197dc97243d36289eb35140c5"
     }
   },
   "bin": "vectomancy-windows-x86_64.exe",
