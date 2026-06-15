@@ -1,12 +1,12 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CmdHub agent-computer interface CLI client",
   "homepage": "https://github.com/Xuepoo/cmdhub-oss",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Xuepoo/cmdhub-oss/releases/download/v0.1.1/cmdh-v0.1.1-x86_64-pc-windows-msvc.zip",
-      "hash": "1015bda1e09da719d4e9c684843dcce5e7b638134d35e71b0cb8dbe632c98326",
+      "url": "https://github.com/Xuepoo/cmdhub-oss/releases/download/v0.1.2/cmdh-v0.1.2-x86_64-pc-windows-msvc.zip",
+      "hash": "d1591d4249fb67249a6c10f6d8f9acc44e11c0418a19beab4cfc208beba2d5db",
       "bin": "cmdh.exe"
     }
   },
