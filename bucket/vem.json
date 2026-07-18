@@ -1,25 +1,25 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "A next-generation Vim editor powered by VectoJS, running natively via Tauri",
   "homepage": "https://vem.run",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/vemjs/vem-desktop/releases/download/v0.1.18/Vem_0.1.18_x64_en-US.msi",
-      "hash": "746d5d3285a7520c0f3adef9c656fe7bae7939f2cdf486903040bf01fa49dd23"
+      "url": "https://github.com/vemjs/vem-desktop/releases/download/v0.1.19/Vem_0.1.19_x64_en-US.msi",
+      "hash": "3b36958f35f25e36923bc1ac9a6233f00cbf076b62e0b117794a22df853a1624"
     }
   },
   "installer": {
     "script": [
       "$logFile = \"$dir\\vem-install.log\"",
-      "$argList = @('/i', \"`\"$dir\\Vem_0.1.18_x64_en-US.msi`\"\", '/quiet', '/qn', '/norestart', \"/log `\"$logFile`\"\", \"INSTALLDIR=`\"$dir\\Vem`\"\")",
+      "$argList = @('/i', \"`\"$dir\\Vem_0.1.19_x64_en-US.msi`\"\", '/quiet', '/qn', '/norestart', \"/log `\"$logFile`\"\", \"INSTALLDIR=`\"$dir\\Vem`\"\")",
       "$Process = Start-Process 'msiexec.exe' -ArgumentList $argList -Wait -PassThru",
       "if ($Process.ExitCode -ne 0) { Write-Output (Get-Content $logFile); throw \"msiexec failed with exit code $($Process.ExitCode)\" }"
     ]
   },
   "uninstaller": {
     "script": [
-      "$argList = @('/x', \"`\"$dir\\Vem_0.1.18_x64_en-US.msi`\"\", '/quiet', '/qn', '/norestart')",
+      "$argList = @('/x', \"`\"$dir\\Vem_0.1.19_x64_en-US.msi`\"\", '/quiet', '/qn', '/norestart')",
       "Start-Process 'msiexec.exe' -ArgumentList $argList -Wait"
     ]
   },
