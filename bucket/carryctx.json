@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "description": "Persistent project context for coding agents",
+  "homepage": "https://carryctx.dev",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Xuepoo/carryctx/releases/download/v0.0.1/carryctx-x86_64-pc-windows-msvc.exe",
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bin": [["carryctx-x86_64-pc-windows-msvc.exe", "carryctx"]]
+    }
+  },
+  "checkver": {
+    "github": "https://github.com/Xuepoo/carryctx"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/Xuepoo/carryctx/releases/download/v$version/carryctx-x86_64-pc-windows-msvc.exe"
+      }
+    }
+  }
+}
