@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Xuepoo/topoglyph/releases/download/v0.2.0/topoglyph-windows-x86_64.exe",
-      "hash": "78b4e9b849a31637b0c29d9ca9439e9f24dd44da679af6280f8b046dc44bd955"
+      "hash": "5422357fb78c8a00f4ef60d7b7f6c4a2336a7d1569c7a8578d416b6c3750bafe"
     }
   },
   "bin": "topoglyph-windows-x86_64.exe",
