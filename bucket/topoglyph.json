@@ -1,12 +1,12 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Topology-to-glyph text-art rendering engine",
   "homepage": "https://github.com/Xuepoo/topoglyph",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Xuepoo/topoglyph/releases/download/v0.2.2/topoglyph-windows-x86_64.exe",
-      "hash": "3295c13c7527c4c2a4ab267ab23d9acb7deca4edbd0a5323e2cc89846ee8c468"
+      "url": "https://github.com/Xuepoo/topoglyph/releases/download/v0.2.3/topoglyph-windows-x86_64.exe",
+      "hash": "e07ba693fc616977b0484050d59381bc481139b136b880befe7cc146bf824ba9"
     }
   },
   "bin": "topoglyph-windows-x86_64.exe",
