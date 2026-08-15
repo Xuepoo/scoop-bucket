@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "description": "Invisible structural watermark for images",
+  "homepage": "https://github.com/Xuepoo/sigil",
+  "license": "Apache-2.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Xuepoo/sigil/releases/download/v0.1.0/sigil-windows-x86_64.exe.zip",
+      "hash": "f747bc12b56ad4fde497b52eaf0b39b02ed9b9b166c16c61d06d8e1f89320eeb"
+    }
+  },
+  "bin": "sigil-windows-x86_64.exe",
+  "checkver": {
+    "github": "https://github.com/Xuepoo/sigil"
+  }
+}
