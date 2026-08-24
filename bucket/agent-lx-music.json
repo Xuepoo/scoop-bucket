@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Xuepoo/agent-lx-music/releases/download/v0.4.0/alx-windows-x86_64.exe",
-      "hash": "3dd62e12cd7ab3ccdd6a88328b0421d577e0956a482a77a3d352b22ec578d5c9",
+      "hash": "8a9ff16c5f590ec0ddbf19e0bafa84712baa823ec34054a8313d521d92e64990",
       "bin": [["alx-windows-x86_64.exe", "alx"]]
     }
   },
